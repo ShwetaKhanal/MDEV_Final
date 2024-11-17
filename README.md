@@ -1,17 +1,18 @@
-# Project Name  MDEV1003VR_Starter
-<img src="Saved/AutoScreenshot.png" width="320"  align="right" />
-## Description
+This repo was initially forked from https://github.com/sbenoit-gc/MDEV1003VR_Starter
 
-A github repository for the in class demonstration code to develop VR application and allow testing on non-VR screen/laptop. <br><br> 
- 
-## Usage
-Clone, or download the zip, to a local directory. Open in Unreal Engine 5.4 or newer
+## Goals for this repo
+- [x] A constant, looping background audio track at a quiet level
+- [x] The guns should make a bubble popping noise when firing projectile
+- [x] The black&orange cubes should disappear when hit with projectile in visual and
+sound explosion effects.
+- [ ] Several of the objects in the arena should be set to Georgian brand colours
+- [ ] Add a text label to the floor of the arena showing your name
+- [ ] Hang a picture of yourself on a wall
+- [ ] Add your biped/robot character to the arena, scaled to human size
+- [ ] Add a 3D object from the Internet and scale appropriately
+- [ ] Coment code
+- [ ] Provide attributions for assets (sound les and model for example)
+- [ ] Package for use in Quest VR (android), with all data in single APK (no .obb)
 
-## Attributions
-1) Based on video by Stephan Anemaat, ( https://youtu.be/k-nlcAYXMW0 )
-2) editor splash screen logo by Georgian
-3) glow stick and flashlight by S Benoit, ( https://sketchfab.com/scbenoit/models )
-
-
-
-
+## References:
+- Background Music: Time's Running Out by Spencer_YK (2023) [Link](https://pixabay.com/music/scary-childrens-tunes-timex27s-running-out-151012/)
