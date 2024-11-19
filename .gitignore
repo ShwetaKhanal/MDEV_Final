@@ -104,3 +104,7 @@ Windows/*
 MacNoEditor/*
 Mac/*
 
+# ignore build, releases and saved content
+Releases/*
+Saved/*
+Build/*
