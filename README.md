@@ -18,3 +18,4 @@ sound explosion effects.
 - Background Music: Time's Running Out by Spencer_YK (2023) [Source](https://pixabay.com/music/scary-childrens-tunes-timex27s-running-out-151012/)
 - Bubble pop sound: Bubble by linhmitto (2024) [Source](https://pixabay.com/sound-effects/bubble-254777/)
 - Wall and Concrete textures: QixelBridge (2024) [xertbj1, xeohdaj]
+- External 3D model of notebook pc: Notebook Low-Poly Version by 3dhaupt (2019) [Source](https://free3d.com/3d-model/notebook-low-poly-version-57341.html)
